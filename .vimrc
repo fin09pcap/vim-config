@@ -53,7 +53,6 @@ call pathogen#infect()
   Bundle 'plasticboy/vim-markdown'
 
 set laststatus=2
-set rtp+=/home/finges/.local/lib/python3.3/site-packages/powerline/bindings/vim
 "-- [GUI setup ]--"
 syntax on                   " Set syntax highlighting on
 set backspace=indent,eol,start  " Backspace
