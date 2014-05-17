@@ -64,13 +64,13 @@ set incsearch               " Hightlight search while typing
 set ignorecase              " Case insensitive search
 set smartcase               " Case sensitive when uppercase present
 set wildmenu                " Show list instead of just completing
-set colorcolumn=85          " Show column boundary
+set colorcolumn=80          " Show column boundary
 set list
 set listchars=tab:›\ ,trail:•,extends:#,nbsp:. " Highlight problematic whitespace
 set scrolljump=5            " Lines to scroll when cursor leaves screen
 set scrolloff=3             " Minimum lines to keep above/below cursor
 set background=dark         " Set a dark background
-colorscheme solarized       " Set colorscheme to Solarized Dark
+colorscheme vividchalk      " Set colorscheme to Solarized Dark
 
 
 "-- [ Formatting ]--"
